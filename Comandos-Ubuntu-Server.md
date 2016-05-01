@@ -1,5 +1,5 @@
 # Comandos Ubuntu Server
----
+
 
 #### Cambiar password root
 ```sh
