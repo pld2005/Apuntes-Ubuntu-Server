@@ -103,7 +103,7 @@ $ apt-get update
 ```
 #### Actualiza paquete
 ```sh
-$ apt-get upgrade Nombre-Paquete
+$ apt-get upgrade 
 ```
 #### Eliminar paquete
 ```sh
@@ -113,6 +113,7 @@ $ apt-get remove Nombre-Paquete
 ```sh
 $ apt-get purge Nombre-Paquete
 ```
+
 
 
 
