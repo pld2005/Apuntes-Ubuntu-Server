@@ -1,4 +1,6 @@
-# Manejo Básico de la Terminal
+# Manejo de la Terminal
+
+La consola o terminal (Shell) es un programa informatico donde interactua el usuario con el sistema operativo mediante una ventana que espera ordenes escritas por el usuario desde el teclado.
 
 #### Cambiar password root
 ```sh
@@ -129,7 +131,7 @@ $ sudo reboot
 $ ssh-keygen -t rsa -b 4096 -c "Nombre-Usuario"
 ```
 
-
+--- 
 
 
 
