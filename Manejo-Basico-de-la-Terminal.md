@@ -1,4 +1,4 @@
-# Comandos Ubuntu Server
+# Manejo Básico de la Terminal
 ---
 
 #### Cambiar password root
