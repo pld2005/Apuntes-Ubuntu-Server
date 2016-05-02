@@ -12,6 +12,10 @@ $ passwd Nombre-Usario
 ```sh
 $ adduser Nombre-Usario
 ```
+#### Dar permisos administrativos a un usuario
+```sh
+$ sudo adduser Nombre-Usario sudo
+```
 #### Borrar un usuario
 ```sh
 $ deluser Nombre-Usario
@@ -113,11 +117,17 @@ $ apt-get remove Nombre-Paquete
 $ apt-get purge Nombre-Paquete
 ```
 
+---
 
+#### Reiniciar sistema
+```sh
+$ sudo reboot
+```
 
-
-
-
+#### Crear llave SSH RSA 4096 a un usuario
+```sh
+$ ssh-keygen -t rsa -b 4096 -c "Nombre-Usuario"
+```
 
 
 

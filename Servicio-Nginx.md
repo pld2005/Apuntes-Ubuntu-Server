@@ -1,5 +1,7 @@
 # Servicio NGINX
 
+Nginx es un servidor web/proxy inverso ligero de alto rendimiento y un proxy para protocolos de correo electrónico (IMAP/POP3).
+
 #### Instalar Nginx
 ```sh
 $ sudo apt-get install nginx
