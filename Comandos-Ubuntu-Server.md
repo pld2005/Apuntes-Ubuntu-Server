@@ -56,6 +56,83 @@ $ mkdir .Nombre-Carpeta
 $ rm -r Nombre-Carpeta
 ```
 
-#### Mover un directorio (carpeta)
+#### Cambiar nombre de un directorio (carpeta)
 ```sh
-$ mv Nombre-Carpeta 
+$ mv Nombre-Carpeta/ Nuevo-Nombre 
+```
+#### Copiar un directorio (carpeta)
+```sh
+$ cp -r Nombre-Carpeta/ Nombre-Copia 
+```
+
+---
+
+#### Crear archivos
+```sh
+$ touch Nombre-Archivo.txt 
+$ touch Nombre-Archivo.html
+$ touch Nombre-Archivo.css
+$ touch Nombre-Archivo.js  
+etc ... 
+```
+
+#### Cambiar nombre del archivo
+```sh
+$ mv Nombre-Archivo.txt Nuevo-Nombre-Archivo.txt
+```
+#### Copiar archivo
+```sh
+$ cp Nombre-Archivo.txt Nuevo-Nombre-Copia.txt
+```
+#### Eliminar un archivo
+```sh
+$ rm Nombre-Archivo.txt 
+```
+#### Editar un archivo
+```sh
+$ vim Nombre-Archivo.txt 
+```
+#### Ver el contenido de un archivo
+```sh
+$ cat Nombre-Archivo.txt 
+```
+---
+#### Actualizar lista de paquetes
+```sh
+$ apt-get update
+```
+#### Actualiza paquete
+```sh
+$ apt-get upgrade Nombre-Paquete
+```
+#### Eliminar paquete
+```sh
+$ apt-get remove Nombre-Paquete
+```
+#### Eliminar paquete y sus archivos de configuracion
+```sh
+$ apt-get purge Nombre-Paquete
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
