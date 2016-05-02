@@ -1,4 +1,4 @@
-# Manejo de la Terminal
+# Apuntes Terminal
 
 La consola o terminal (Shell) es un programa informatico donde interactua el usuario con el sistema operativo mediante una ventana que espera ordenes escritas por el usuario desde el teclado.
 
