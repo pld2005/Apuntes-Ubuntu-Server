@@ -1,5 +1,5 @@
 # Servicio NGINX
----
+
 #### Instalar Nginx
 ```sh
 $ sudo apt-get install nginx
