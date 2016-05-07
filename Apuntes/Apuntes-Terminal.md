@@ -119,6 +119,11 @@ $ apt-get remove Nombre-Paquete
 $ apt-get purge Nombre-Paquete
 ```
 
+#### Comprimir una carpeta
+```sh
+$ tar -zcvf nombre-archivo.tar.gz nombre-carpeta
+```
+
 ---
 
 #### Reiniciar sistema
